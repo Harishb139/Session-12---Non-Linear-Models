@@ -1,4 +1,7 @@
-write.csv(yeast,"C:/Users/Hemant singh/Desktop/yeast.csv")
+Session-12- Non-Linear-Models
+Assignment - 1
+
+write.csv(yeast,"C:/Users/Harish/Desktop/yeast.csv")
 
 #Ques.1.a. Perform ANOVA test on the discriminant analysis scores of nuclear localization signals of both nuclear
            #and non-nuclear proteins by class variables (Target).
