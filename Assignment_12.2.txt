@@ -1,3 +1,6 @@
+Session-12- Non-Linear-Models
+Assignment - 2
+
 #1.
 #Answer the below questions:
  # a. What are the assumptions of ANOVA, test it out?
